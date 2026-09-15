@@ -1,0 +1,23 @@
+## Visual Studio 캐시 및 사용자 설정
+.vs/
+*.user
+*.suo
+
+## 빌드 출력 폴더 및 바이너리
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bin/
+obj/
+
+## 빌드 중간 생성물
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.exe
+*.dll
+*.lib
